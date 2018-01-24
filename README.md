@@ -2,14 +2,14 @@
 ![Demo Image](https://github.com/Ryz3D/NumDisplay/raw/master/IMG_0323.JPG)
 A Mod for 'Homebrew: Patent Unkown' V14.
  
-# Installation
+## Installation
 Lua: Put NumDisplay.lua into C:\Program Files (x86)\Steam\steamapps\common\Homebrew - Vehicle Sandbox\hb146_Data\StreamingAssets\Lua\ModLua
 
 Windows: Download NumDisplay_Server.exe
 
 Android: Download NumDisplay_Android.apk and install it on your Android Device
 
-# How to use it
+## How to use it
 After you installed the 3 Parts of NumDisplay, you have to first of all start the Server:
 
  Launch NumDisplay_Server.exe
@@ -47,7 +47,7 @@ You are now ready to launch the App and connect:
 Now you can get into any vehicle in Homebrew with Number Displays and the values should show up on your Phone!
 To Switch which Display is being shown, hold *Left Control* and press *Left Alt* a few times until you're at the correct Display.
 
-# How it works
+## How it works
 The Structure is made up of 3 Parts:
  > A Lua Mod to write the Values into a .txt file, also used to switch between Displays
  
