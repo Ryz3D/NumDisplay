@@ -44,6 +44,7 @@ You are now ready to launch the App and connect:
  Click the Button and wait until 'Connected!' is shown
 
 Now you can get into any vehicle in Homebrew with Number Displays and the values should show up on your Phone!
+To Switch which Display is being shown, hold *Left Control* and press *Left Alt* a few times until you're at the correct Display.
 
 # How it works
 The Structure is made up of 3 Parts:
