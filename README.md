@@ -2,7 +2,11 @@
 A Mod for 'Homebrew: Patent Unkown' V14.
  
 # Installation
-Coming soon..
+Lua: Put NumDisplay.lua into C:\Program Files (x86)\Steam\steamapps\common\Homebrew - Vehicle Sandbox\hb146_Data\StreamingAssets\Lua\ModLua
+
+Windows: Download NumDisplay_Server.exe
+
+Android: Download NumDisplay_Android.apk and install it on your Android Device
 
 # How to use it
 After you installed the 3 Parts of NumDisplay, you have to first of all start the Server:
