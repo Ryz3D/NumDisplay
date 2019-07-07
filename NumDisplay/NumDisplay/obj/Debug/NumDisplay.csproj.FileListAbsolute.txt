@@ -4,3 +4,9 @@ c:\users\mirco.heitmann\documents\visual studio 2015\Projects\NumDisplay\NumDisp
 c:\users\mirco.heitmann\documents\visual studio 2015\Projects\NumDisplay\NumDisplay\obj\Debug\NumDisplay.csprojResolveAssemblyReference.cache
 c:\users\mirco.heitmann\documents\visual studio 2015\Projects\NumDisplay\NumDisplay\obj\Debug\NumDisplay.exe
 c:\users\mirco.heitmann\documents\visual studio 2015\Projects\NumDisplay\NumDisplay\obj\Debug\NumDisplay.pdb
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\bin\Debug\NumDisplay.exe.config
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\obj\Debug\NumDisplay.exe
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\obj\Debug\NumDisplay.pdb
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\bin\Debug\NumDisplay.exe
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\bin\Debug\NumDisplay.pdb
+C:\Users\mirco.heitmann\Documents\GitHub\NumDisplay\NumDisplay\NumDisplay\obj\Debug\NumDisplay.csprojResolveAssemblyReference.cache
